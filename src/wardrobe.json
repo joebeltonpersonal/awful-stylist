@@ -1,0 +1,24 @@
+{
+  "wardrobeName": "Joe's Wardrobe",
+  "clothes": {
+    "outerwear": {
+      "tan denim jacket": "https://www.nordicpoetry.co.uk/media/catalog/product/cache/1/image/473x710/17f82f742ffe127f42dca9de82fb58b1/2/4/24_9.jpg",
+      "shell blazer": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/427730/sub/goods_427730_sub8.jpg"
+    },
+    "tops": {
+      "black t-shirt": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/425974/item/goods_09_425974.jpg",
+      "white t-shirt": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/425974/item/goods_00_425974.jpg",
+      "white shirt": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/421109/item/goods_00_421109.jpg"
+    },
+    "bottoms": {
+      "grey suit trousers": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/425138/sub/goods_425138_sub7.jpg",
+      "black suit trousers": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/425137/sub/goods_425137_sub7.jpg",
+      "black jeans": "https://lsco.scene7.com/is/image/lsco/levis/clothing/005010165-front-pdp.jpg",
+      "grey tracksuit bottoms": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/419507/sub/goods_419507_sub8.jpg"
+    },
+    "shoes": {
+      "black boots": "https://media.endclothing.com/media/f_auto,q_auto:eco/prodmedia/media/catalog/product/1/8/18-12-2017_drmartensxeg_monkeychurchcontrastmonkeyboot_blacksmooth_repellocalf_23659001_mo_1.jpg",
+      "black sneakers": "https://www.fatbuddhastore.com/images/converse-chuck-taylor-70s-hi-boots-black-p9722-37230_image.jpg"
+    }
+  }
+}

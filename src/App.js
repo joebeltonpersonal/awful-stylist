@@ -3,7 +3,6 @@ import "./App.css";
 
 import Header from "./components/header/header";
 import Generator from "./components/generator/generator";
-import Footer from "./components/footer/footer";
 
 import json from "./wardrobe.json";
 
@@ -12,7 +11,6 @@ function App() {
     <div>
       <Header wardrobeName={json.wardrobeName} />
       <Generator wardrobeObj={json.clothes} />
-      <Footer />
     </div>
   );
 }

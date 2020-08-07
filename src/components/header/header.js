@@ -1,9 +1,7 @@
 import React from "react";
 import "./header.scss";
 
-const Header = (props) => {
-  const { wardrobeName } = props;
-
+const Header = ({ wardrobeName }) => {
   return (
     <div className="header">
       <h1>{wardrobeName}</h1>

@@ -3,8 +3,7 @@ import "./generator.scss";
 
 import ClothingRandomiser from "./clothingRandomiser/clothingRandomiser";
 
-const Generator = (props) => {
-  const { wardrobeObj } = props;
+const Generator = ({ wardrobeObj }) => {
   const [generators, setGenerators] = useState("");
 
   useEffect(() => {
